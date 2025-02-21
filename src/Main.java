@@ -6,6 +6,7 @@ public class Main {
 
         String day = scanner.nextLine();
 
+
         System.out.println(Task2_1_7.Day.isWeekend(day));
         System.out.println(Task2_1_7.Day.getRusName(day));
     }
